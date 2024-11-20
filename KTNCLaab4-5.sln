@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTNCLaab4-5", "KTNCLaab4-5.csproj", "{FA063560-5CE1-4CF3-BDB2-4D90931F4ACC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectLab4-5", "..\TestProjectLab4-5\TestProjectLab4-5.csproj", "{610BCA60-6029-4B38-A21C-D756FDBA8914}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA063560-5CE1-4CF3-BDB2-4D90931F4ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA063560-5CE1-4CF3-BDB2-4D90931F4ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA063560-5CE1-4CF3-BDB2-4D90931F4ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA063560-5CE1-4CF3-BDB2-4D90931F4ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{610BCA60-6029-4B38-A21C-D756FDBA8914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610BCA60-6029-4B38-A21C-D756FDBA8914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610BCA60-6029-4B38-A21C-D756FDBA8914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610BCA60-6029-4B38-A21C-D756FDBA8914}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AF45679-B249-4D43-97E3-58B883BF2F20}
+	EndGlobalSection
+EndGlobal
